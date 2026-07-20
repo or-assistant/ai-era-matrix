@@ -5,3 +5,5 @@ node_modules/
 *.db
 *.sqlite
 *.log
+.env.*
+.DS_Store
